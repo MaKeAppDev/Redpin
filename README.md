@@ -1,4 +1,4 @@
-# Redpin
+# Redpin [![Build Status](https://travis-ci.org/MaKeAppDev/Redpin.svg?branch=travis)](https://travis-ci.org/MaKeAppDev/Redpin)
 
 This is a fork of the open source project [Redpin](http://redpin.org/) from the [Redpin sourceforge site](http://sourceforge.net/projects/redpin/)
 

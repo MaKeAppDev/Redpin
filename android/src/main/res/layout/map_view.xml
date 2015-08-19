@@ -6,7 +6,7 @@
     android:layout_gravity="center_horizontal|center_vertical"
     android:id="@+id/map_view">
 
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <RelativeLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="44dip"
@@ -64,15 +64,14 @@
         android:id="@+id/map_view_component"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/map_topbar"></org.redpin.android.ui.mapview.MapView>
+        android:layout_below="@+id/map_topbar"/>
 
     <ImageButton
         android:id="@+id/locate_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/menu_locate_me_black"
-        android:layout_alignBottom="@+id/map_view_component"></ImageButton>
-
+        android:layout_alignBottom="@+id/map_view_component"/>
 
 </RelativeLayout>
 
