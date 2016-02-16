@@ -7,11 +7,11 @@ This is a fork of the open source project [Redpin](http://redpin.org/) from the 
 **Server Build**  
 
 ~~~~~~~~~~~~~{.sh}
-gradle:server:assemble
+gradle :server:assemble
 ~~~~~~~~~~~~~
 
 **Andorid Build**  
 
 ~~~~~~~~~~~~~{.sh}
-gradle:andorid:assemble
+gradle :andorid:assemble
 ~~~~~~~~~~~~~
